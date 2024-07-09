@@ -1,0 +1,31 @@
+.container{
+    
+    margin:60px;
+    padding-right:200px;
+    padding-left: 200px;
+    display: inline;
+}
+form{
+    background-color: rgb(202, 134, 34);
+    text-align: center;
+    align-items: center;
+    height: 400px;
+    width:400px;
+}
+.clear{
+    background-color:red;
+}
+.number{
+    width: 50px;
+    height:50px;
+    background-color: white;
+}
+.clear{
+    width: 50px;
+    height: 50px;
+}
+.result{
+    height: 50px;
+}
+
+
